@@ -12,7 +12,7 @@
 | Попов Михаил | Software Tester, Documentation Engineer | popow7478-hash |
 | Панков Руслан | Frontend Developer, UX Designer | Nalvoksur |
 | Матвеев Глеб | Automation Engineer, Backend Developer | loxanik |
-| Брезгунов Илья | Frontend Developer, UI Designer | *(не указан)* |
+| Брезгунов Илья | Frontend Developer, UI Designer | sheyazz1 |
 
 ---
 
